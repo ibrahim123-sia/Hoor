@@ -38,3 +38,6 @@ Thumbs.db
 # Misc
 *.local
 coverage
+
+# portfolio screenshot gallery (kept locally, not committed)
+screenshots/
